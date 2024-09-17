@@ -9,13 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YOUR_GITHUB_USER_NAME/javascript-action-template.git"
+    "url": "git+https://github.com/anotherdba/javascript-action-template.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/anotherdba/YOUR_GITHUB_USER_NAME/javascript-action-template/issues"
+    "url": "https://github.com/anotherdba/javascript-action-template/issues"
   },
   "homepage": "https://github.com/anotherdba/javascript-action-template#readme",
   "dependencies": {
