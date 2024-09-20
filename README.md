@@ -3,6 +3,7 @@ Use these files to test a JavaScript action that uses the @actions/core pacakge 
 - Reading action inputs
 - Printing an info log
 - Creating notice, warning, and error annotations
+- new branch
 
 ## From the GitHub Console...
 1. Create a new repo.
